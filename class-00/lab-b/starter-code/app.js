@@ -201,7 +201,7 @@ console.log(joe.scopeArrow());
 // represent the instance of the constructor
 
 // 2. What is "this" when joe.scopeArrow() is invoked?
-//
+
 
 // 3. Explain why "this" is different when an arrow function is used.
 //
